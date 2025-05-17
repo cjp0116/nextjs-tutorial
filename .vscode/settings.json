@@ -1,1 +1,14 @@
-{}
+{
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "next-js-dashboard",
+			"database": "nextjs_dashboard_postgres",
+			"username": "postgres",
+			"password": "sudo"
+		}
+	]
+}
